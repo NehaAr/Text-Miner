@@ -14,7 +14,11 @@ Language is a medium of communication. There are different forms of spoken text 
 There are handful of python libraries available in the same domain.
 
 NLTK
+
+
 Genism
+
+
 Sci-KIT
 
 
