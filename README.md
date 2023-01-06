@@ -7,4 +7,14 @@ A JSON(Javascript Object Notation) is a standard file format or data interchange
 
 The platform used is Python.
 
+WHY TEXT MUST BE PREPROCESSED?
+
+Language is a medium of communication. There are different forms of spoken text like blah blah...or yikes which could only be understood by humans and not by computers , hence text ought to be preprocessed to make it undertandable by machines . Over the years so mny researches have been performed for the same.
+
+There are handful of python libraries available in the same domain.
+
+NLTK
+Genism
+Sci-KIT
+
 
